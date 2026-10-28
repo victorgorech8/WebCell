@@ -1,0 +1,6 @@
+- file-saver
+- jszip
+- react
+- react-dom
+- react-router-dom
+- react-syntax-highlighter
